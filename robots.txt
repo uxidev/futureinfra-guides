@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uxidev.github.io/futureinfra-guides/sitemap.xml
